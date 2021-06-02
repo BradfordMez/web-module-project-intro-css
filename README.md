@@ -21,11 +21,11 @@ The styles in your [design file](/design/desktop.jpg) include bright colors and 
 
 Follow these steps to set up and work on your project:
 
-- [ ] Create a forked copy of this project.
-- [ ] Clone your OWN version of the repository (Not Lambda's by mistake!).
-- [ ] Create a new branch: git checkout -b `<firstName-lastName>`.
-- [ ] Implement the project on your newly created `<firstName-lastName>` branch, committing changes regularly.
-- [ ] Push commits: git push -u origin `<firstName-lastName>`.
+- [X] Create a forked copy of this project.
+- [X] Clone your OWN version of the repository (Not Lambda's by mistake!).
+- [X] Create a new branch: git checkout -b `<firstName-lastName>`.
+- [X] Implement the project on your newly created `<firstName-lastName>` branch, committing changes regularly.
+- [X] Push commits: git push -u origin `<firstName-lastName>`.
 
 ### Task 2: Minimum Viable Product
 
@@ -42,11 +42,11 @@ Once your repository is set up, practice what you learned today to style the sit
   - [x] All other text is Roboto Mono, also available on [google fonts](https://fonts.google.com/specimen/Roboto+Mono)
 - [x] Color the background of the main text body with `#DDB9A3`
 - [x] Color the background of the footer with `#F9E7DC`
-- [ ] Apply box model properties (content, padding, margin, and border) to all content such that your webpage matches the design file. This will include at least:
+- [X] Apply box model properties (content, padding, margin, and border) to all content such that your webpage matches the design file. This will include at least:
   - [X] A round image in the header
   - [X] Round corners on navigation and footer items
   - [X] Header image and text side by side
-  - [ ] Centered content and margins around content
+  - [X] Centered content and margins around content
   - [X] Footer image positioning
 
 **Throughout your design you should avoid static units (pixels), and should instead use responsive units wherever possible.**
@@ -56,8 +56,8 @@ Once your repository is set up, practice what you learned today to style the sit
 
 The following goals are designed to stretch your knowledge and may require additional research beyond what was learned in class today.
 
-- [ ] Add CSS animations (hover, mouseover, etc.)
-- [ ] Design and execute your own pages for `Plan your Visit`, `Learn About the Park`, or `Get Involved`
+- [X] Add CSS animations (hover, mouseover, etc.)
+- [X] Design and execute your own pages for `Plan your Visit`, `Learn About the Park`, or `Get Involved`
 - [ ] Use [favicon.io](https://favicon.io/favicon-converter/) to convert the campfire and RV images to real favicons and use them in your project
 - [ ] Host your website on Netlify.com
 
